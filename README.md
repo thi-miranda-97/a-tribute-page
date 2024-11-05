@@ -1,5 +1,6 @@
 **Jane Goodall Tribute Page
 **
+
 This project is a simple tribute webpage dedicated to Dr. Jane Goodall, one of the world’s foremost primatologists and conservationists. The page is designed as part of the Responsive Web Design course on FreeCodeCamp. It aims to highlight Jane Goodall's achievements and impact in wildlife research and environmental conservation.
 
 ## Project Overview
